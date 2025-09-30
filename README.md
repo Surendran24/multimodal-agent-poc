@@ -15,7 +15,7 @@ This is a proof-of-concept (POC) demo showcasing multimodal AI capabilities (tex
 
 Built fully with **open-source models** and **free infra** (Google Colab + Hugging Face).
 
-## 🚀 How to Run (Colab)
+##  How to Run (Colab)
 1. Open `Multimodel_AI_.ipynb` in Google Colab.  
 2. Runtime → Change runtime type → **GPU**.  
 3. Install dependencies:
