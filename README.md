@@ -21,3 +21,14 @@ Built fully with **open-source models** and **free infra** (Google Colab + Huggi
 3. Install dependencies:
 ```bash
 pip install -q diffusers[torch] transformers accelerate safetensors huggingface_hub ffmpeg-python gTTS
+
+##  Sample Outputs
+
+- **Image:**  
+  ![Sample Image](examples/test_image.png)
+
+- **Audio:**  
+  [ Listen to audio](examples/agent_audio.wav)
+
+- **Video:**  
+  [ Watch video](examples/agent_video.mp4)
