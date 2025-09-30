@@ -1,0 +1,7 @@
+diffusers[torch]
+transformers
+accelerate
+safetensors
+huggingface_hub
+ffmpeg-python
+gTTS
